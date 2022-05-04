@@ -17,3 +17,7 @@ nfpms:
   - deb
   - rpm
   - apk
+
+archives:
+  -
+    format: binary
