@@ -1,5 +1,5 @@
 ## go-sponge
-This is a golang alternative to the already existing sponge [Sponge](https://linux.die.net/man/1/sponge). utility  
+This is a golang alternative to the already existing sponge [Sponge](https://linux.die.net/man/1/sponge) utility  
 
 ### Motivation
 Recently I faced a problem where I wanted a tool to output to a file using regular bash commands but for some reason, it didn't work, I didn't understand why at first but after a quick search it seemed that it was related to the fact that the command I was using was behaving differently with stdout.  
